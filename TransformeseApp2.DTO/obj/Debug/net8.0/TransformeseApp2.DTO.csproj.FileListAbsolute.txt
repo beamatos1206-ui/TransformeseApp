@@ -1,0 +1,11 @@
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\bin\Debug\net8.0\TransformeseApp2.DTO.deps.json
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\bin\Debug\net8.0\TransformeseApp2.DTO.dll
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\bin\Debug\net8.0\TransformeseApp2.DTO.pdb
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\TransformeseApp2.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\TransformeseApp2.DTO.AssemblyInfoInputs.cache
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\TransformeseApp2.DTO.AssemblyInfo.cs
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\TransformeseApp2.DTO.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\TransformeseApp2.DTO.dll
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\refint\TransformeseApp2.DTO.dll
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\TransformeseApp2.DTO.pdb
+C:\Users\beatriz.moliveira55\source\repos\TransformeseApp2.UI\TransformeseApp2.DTO\obj\Debug\net8.0\ref\TransformeseApp2.DTO.dll
